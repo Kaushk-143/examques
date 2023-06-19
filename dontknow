@@ -4,8 +4,10 @@ cd Devopsexam
 git config --global user.name "KUCHBHI"
 git config --global user.email rohansharma6004@gmail.com
 git config --list
+git branch <rajesh lawdu>
+git checkout <rajeshlawdu>
 git init
-touch master.txt
+touch master.txt 
 notepad master.txt
 git status
 git add . 
